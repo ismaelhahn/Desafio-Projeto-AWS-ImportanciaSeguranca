@@ -26,7 +26,7 @@ Medida 3: Firewall
 
 
 ## Conclusão
-A implementação de ferramentas na empresa Abstergo Industries tem como esperado [benefícios das ferramentas]*, o que aumentará a segurança da empresa. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
+A implementação de ferramentas na empresa Abstergo Industries tem como esperado aumentar a segurança no ambiente AWS. Recomenda-se a continuidade da utilização das ferramentas implementadas e a busca por novas tecnologias que possam melhorar ainda mais os processos da empresa.
 
 ## Anexos
 
